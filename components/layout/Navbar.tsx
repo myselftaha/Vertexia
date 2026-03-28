@@ -23,7 +23,7 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-[1200px] items-center justify-between gap-6 px-8 py-5 text-[0.95rem]">
         <div className="flex items-center gap-3" aria-label="Vertexia">
           <img
-            src="/vertexia-logos/header-logo1.png"
+            src="/logos/header-logo1.png"
             alt="Vertexia"
             className="block h-24 w-auto"
           />
