@@ -15,7 +15,7 @@ import FooterLinksSection from "@/components/sections/FooterLinksSection";
 
 export default function PreviewPage() {
   return (
-    <>
+    <main className="site">
       <HeroSection />
       <ShowcaseSection />
       <AlternativesSection />
@@ -30,6 +30,6 @@ export default function PreviewPage() {
       <FaqSection />
       <ProfessionalWebSection />
       <FooterLinksSection />
-    </>
+    </main>
   );
 }

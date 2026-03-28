@@ -15,7 +15,7 @@ const navLinks: NavLink[] = [
 
 export default function Navbar() {
   return (
-    <header className="relative z-30 bg-[#050505]">
+    <header className="site-navbar relative z-30 bg-[#050505]">
       <div
         className="h-1 bg-[linear-gradient(90deg,#ff6b6b,#f6d84c,#74ff7c,#64e2ff,#7f63ff)]"
         aria-hidden="true"

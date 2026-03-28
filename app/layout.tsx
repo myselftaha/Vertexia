@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import type { ReactNode } from "react";
 import { Montserrat, Mulish, Poppins } from "next/font/google";
 import "./globals.css";
+import "./responsive.css";
 
 const poppins = Poppins({
   subsets: ["latin"],

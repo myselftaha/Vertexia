@@ -5,7 +5,7 @@ const compareLinks = ["Vertexia vs GoDaddy", "Vertexia vs Squarespace"];
 
 export default function FooterLinksSection() {
   return (
-    <section className="bg-[#050505] px-6 pb-14 pt-20 text-white">
+    <section className="footer-links bg-[#050505] px-6 pb-14 pt-20 text-white">
       <div className="mx-auto max-w-[1200px]">
         <div className="grid gap-10">
           <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4">
